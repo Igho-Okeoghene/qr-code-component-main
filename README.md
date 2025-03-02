@@ -19,8 +19,8 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Igho-Okeoghene/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://igho-okeoghene.github.io/qr-code-component-main/)
+- Solution URL: [https://github.com/Igho-Okeoghene/qr-code-component-main]
+- Live Site URL: [https://igho-okeoghene.github.io/qr-code-component-main/]
 
 ### Built with
 
